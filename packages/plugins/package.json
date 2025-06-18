@@ -1,0 +1,15 @@
+{
+  "name": "@lufykms/plugins",
+  "version": "1.0.0",
+  "description": "Plugin framework for LufyKMS Platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest"
+  },
+  "keywords": ["kms", "plugins", "framework"],
+  "author": "",
+  "license": "MIT"
+}

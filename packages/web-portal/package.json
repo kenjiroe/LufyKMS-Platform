@@ -1,0 +1,15 @@
+{
+  "name": "@lufykms/web-portal",
+  "version": "1.0.0",
+  "description": "Web interface for LufyKMS Platform",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "test": "jest"
+  },
+  "keywords": ["kms", "web", "interface", "nextjs"],
+  "author": "",
+  "license": "MIT"
+}

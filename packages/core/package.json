@@ -1,0 +1,15 @@
+{
+  "name": "@lufykms/core",
+  "version": "1.0.0",
+  "description": "Core KMS engine for LufyKMS Platform",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "jest"
+  },
+  "keywords": ["kms", "knowledge-management", "core"],
+  "author": "",
+  "license": "MIT"
+}

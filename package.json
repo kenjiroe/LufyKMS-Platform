@@ -1,0 +1,37 @@
+{
+  "name": "lufykms-platform",
+  "version": "1.0.0",
+  "description": "Multi-platform Knowledge Management System with AI chatbot plugins",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces",
+    "dev": "npm run dev --workspaces",
+    "clean": "rm -rf node_modules packages/*/node_modules packages/*/dist"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/LufyKMS-Platform.git"
+  },
+  "keywords": [
+    "knowledge-management",
+    "kms",
+    "chatbot",
+    "ai",
+    "line-bot",
+    "monorepo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
