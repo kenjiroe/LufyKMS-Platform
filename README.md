@@ -6,7 +6,7 @@ Multi-platform Knowledge Management System with AI chatbot plugins
 
 LufyKMS-Platform is a comprehensive knowledge management ecosystem designed to integrate AI chatbots across multiple platforms. Built with a plugin-based architecture for maximum flexibility and scalability.
 
-**Migrated from [stou-kb](https://github.com/kenjiroe/stou-kb)** - Now with improved architecture, TypeScript support, and plugin framework.
+**Migrated from [LINE-Chatbot-x-Gemini-Multimodal](https://github.com/jirawatee/LINE-Chatbot-x-Gemini-Multimodal)** - Now with improved architecture, TypeScript support, and plugin framework.
 
 ## ✨ Features
 
@@ -209,7 +209,7 @@ npm run clean
 - [Core KMS API](/packages/core/README.md)
 - [Plugin Framework](/packages/plugins/README.md)
 - [LINE Bot Plugin Guide](/docs/line-bot-setup.md)
-- [Migration from stou-kb](/docs/migration.md)
+- [Migration from LINE-Chatbot-x-Gemini-Multimodal](/docs/migration.md)
 
 ## 🤝 Contributing
 
@@ -225,6 +225,6 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
-- Migrated and improved from the original [stou-kb](https://github.com/kenjiroe/stou-kb) project
+- Migrated and improved from the original [LINE-Chatbot-x-Gemini-Multimodal](https://github.com/jirawatee/LINE-Chatbot-x-Gemini-Multimodal) by [@jirawatee](https://github.com/jirawatee)
 - Built with Google AI, Firebase, and LINE Messaging API
 - Inspired by modern plugin architectures and microservices patterns
